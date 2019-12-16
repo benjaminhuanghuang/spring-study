@@ -1,11 +1,11 @@
 package ben.study.spring.service.impl;
 
-import com.lynda.common.data.repository.CustomerRepository;
-import com.lynda.common.data.repository.SalesOrderRepository;
-import com.lynda.common.domain.Customer;
-import com.lynda.common.domain.Order;
-import com.lynda.common.service.InventoryService;
-import com.lynda.common.service.OrderService;
+import ben.study.spring.data.repository.CustomerRepository;
+import ben.study.spring.data.repository.SalesOrderRepository;
+import ben.study.spring.domain.Customer;
+import ben.study.spring.domain.Order;
+import ben.study.spring.service.InventoryService;
+import ben.study.spring.service.OrderService;
 
 import java.util.Map;
 

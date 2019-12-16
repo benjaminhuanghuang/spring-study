@@ -21,5 +21,4 @@ public class HelloConfig {
 
         System.out.println(text);
     }
-
 }

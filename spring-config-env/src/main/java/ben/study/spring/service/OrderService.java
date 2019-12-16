@@ -1,7 +1,7 @@
 package ben.study.spring.service;
 
-import com.lynda.common.domain.Customer;
-import com.lynda.common.domain.Order;
+import ben.study.spring.domain.Customer;
+import ben.study.spring.domain.Order;
 
 import java.util.Map;
 

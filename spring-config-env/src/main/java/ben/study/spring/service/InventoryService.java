@@ -1,6 +1,6 @@
 package ben.study.spring.service;
 
-import com.lynda.common.domain.Product;
+import ben.study.spring.domain.Product;
 
 import java.util.List;
 import java.util.Map;

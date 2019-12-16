@@ -1,8 +1,8 @@
 package ben.study.spring.service.impl;
 
-import com.lynda.common.data.repository.InventoryItemRepository;
-import com.lynda.common.domain.Product;
-import com.lynda.common.service.InventoryService;
+import ben.study.spring.data.repository.InventoryItemRepository;
+import ben.study.spring.domain.Product;
+import ben.study.spring.service.InventoryService;
 
 import java.util.Map;
 
